@@ -190,7 +190,6 @@
         height: 236px;
         background: #FFFFFF 0% 0% no-repeat padding-box;
         border: 1px solid #D5D5D5;
-        opacity: 1;
     }
     .slider-item{
         padding: 6px;
@@ -200,6 +199,140 @@
         height: 223px;
         object-fit: contain;
     }
+    .slider-buttons{
+        display: none;
+    }
+    /* .slider-buttons a:first-child{
+        
+    }
+    .slider-buttons a:last-child{
+        
+    } */
+
+    .slider-information{
+        margin-top: 7px;
+        color: #000000;
+        font-family: "Open Sans";
+        text-align: center;
+    }
+    .slider-information p:first-child{
+        font-size: 20px;
+        line-height: 27px;
+        margin-bottom: 10px;
+        font-style: italic;
+    }
+    .slider-information p:last-child{
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .banner-honda-acord{
+        margin-top: 215px;
+    }
+    .banner-honda-acord p{
+        font-family: "Open Sans";
+        color: #000000;
+        text-align: center;
+    }
+    .banner-honda-acord p:first-child{
+        margin: 0px 20px 0px 20px;
+        letter-spacing: 0px;
+        text-transform: uppercase;
+        font-style: italic;
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .banner-honda-acord p:nth-child(2){
+        margin: 10px 20px 0px 20px;
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .banner-honda-acord-accordion{
+        margin: 10px 20px 10px 20px;
+        width: 335px;
+        height: 196px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        border: 1px solid #D5D5D5;
+    }
+    .banner-honda-acord-button{
+        margin: 0px 20px 0px 20px;
+        width: 335px;
+        height: 36px;
+        border: 1px solid #D5D5D5;
+        border-radius: 4px;
+        color: #000000;
+        background-color: #FFFFFF;
+        margin-bottom: 50px;
+    }
+    .find{
+        width: 375px;
+        height: 339px;
+        background: #EEEEEE 0% 0% no-repeat padding-box;
+        padding-top: 19px;
+    }
+    .find-button{
+        margin: 0px 52px 10px 52px;
+        width: 270px;
+        height: 80px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        border: 1px solid #DF0209;
+        border-radius: 5px;
+    }
+    .find .find-button:first-child {
+        display: flex;
+    }
+    .find .find-button:first-child img{
+        width: 27px;
+        height: 39px;
+        margin: 20px;
+    }
+    .find .find-button:first-child div{
+        flex-direction: column;
+        margin-top: 20px;
+    }
+    .find .find-button:first-child div p:first-child{
+        font: 13px "Open Sans";
+        letter-spacing: 0px;
+        line-height: 19px;
+        color: #000000;
+    }
+    .find .find-button:first-child div p:last-child{
+        font: 20px "Open Sans";
+        letter-spacing: 0px;
+        line-height: 30px;
+        color: #DF0209;
+        text-transform: uppercase;
+    }
+    .find .find-button:nth-child(2) {
+        display: flex;
+        align-items: center;
+    }
+    .find .find-button:nth-child(2) div{
+        margin: 13px 35px 13px 35px;
+        flex-direction: column;
+    }
+    .find .find-button:nth-child(2) div p:first-child{
+        font: italic normal normal 16px "Open Sans";
+        letter-spacing: -0.7px;
+        color: #727B7A;
+    }
+    .find .find-button:nth-child(2) div p:last-child{
+        text-align: left;
+        font: italic normal normal 26px "Open Sans";
+        letter-spacing: 0px;
+        line-height: 35px;
+        color: #DF0209;
+    }
+    .find .find-follow{
+        margin: 0px 50px 0px 50px;
+        text-align: center;
+        font: italic normal normal 18px "Open Sans";
+        letter-spacing: 0px;
+        color: #000000;
+        line-height: 24px;
+        text-transform: uppercase;
+    }
+
+    
     
 
 

@@ -48,9 +48,9 @@ table {
 }
 button {
     color: none;
-    background-color: none;
     border-width: 0px;
     border-style: none;
     border-color: none;
     border-image: none;
+    background-color: #FFFFFF;
 }

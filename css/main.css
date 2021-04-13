@@ -331,6 +331,25 @@
         line-height: 24px;
         text-transform: uppercase;
     }
+    .find-icons{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    /* .find-icons div{
+
+    } */
+    .find-icons div .find-icons-circle{
+        width: 40px;
+        height: 40px;
+        background-color: #C5C5C5;
+        border-radius: 50%;
+    }
+    /* .find-icons div .find-icons-circle:nth-child(2){
+
+    } */
+        
+    
 
     
     
